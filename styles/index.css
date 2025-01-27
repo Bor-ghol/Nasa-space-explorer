@@ -1,8 +1,8 @@
 :root {
-    --primary: #00b4d8;      /* Bright blue */
-    --secondary: #ff69b4;    /* Pink */
-    --dark: #0a192f;         /* Deep space blue */
-    --light: #e9ecef;        /* Soft white */
+    --primary: #00b4d8;      
+    --secondary: #ff69b4;    
+    --dark: #0a192f;         
+    --light: #e9ecef;        
     --gradient: linear-gradient(135deg, #00b4d8, #ff69b4);
     --gradient: linear-gradient(135deg, var(--primary), var(--secondary));
 }
