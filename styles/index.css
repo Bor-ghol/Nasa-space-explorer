@@ -229,3 +229,12 @@ section h2 {
     margin: 1rem 0;
     border: 1px solid rgba(255, 0, 0, 0.2);
 }
+
+footer {
+    background-color: var(--gradient);
+    color: var(--light);
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    width: 100%;
+}
